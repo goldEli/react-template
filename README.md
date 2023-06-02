@@ -2,7 +2,7 @@
 
 - [x] eslint
 - [x] prettier
-- [] rt
+- [] redux toolkit
 - [] http
 
 # Prettier vscode 配置

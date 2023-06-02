@@ -5,7 +5,7 @@ import Router from './router'
 
 function App() {
   const [count, setCount] = useState(0)
-
+  console.log('import.meta.env', import.meta.env)
   return (
     <div>
       <Link to="/">home page</Link>
