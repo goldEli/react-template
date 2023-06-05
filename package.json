@@ -54,7 +54,7 @@
   },
   "lint-staged": {
     "src/**": "eslint",
-    "*.{js,jsx,vue,ts,tsx}": "npm run checkTypek",
+    "*.{js,jsx,vue,ts,tsx}": "npm run checkType",
     "*.{js,css,md}": "prettier --write"
   }
 }
