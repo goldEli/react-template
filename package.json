@@ -52,11 +52,9 @@
     "vite": "4.3.9",
     "vite-plugin-imp": "^2.4.0"
   },
-  "husky": {
-    "pre-commit": "lint-staged"
-  },
   "lint-staged": {
     "src/**": "eslint",
-    "**/*.ts": "tsc-files --noEmit"
+    "*.{js,jsx,vue,ts,tsx}": "npm run checkTypek",
+    "*.{js,css,md}": "prettier --write"
   }
 }
