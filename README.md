@@ -4,6 +4,7 @@
 - [x] prettier
 - [] redux toolkit
 - [] http
+- [] basic type
 
 # Prettier vscode 配置
 
