@@ -2,9 +2,12 @@
 
 - [x] eslint
 - [x] prettier
-- [] redux toolkit
-- [] http
-- [] basic type
+- [x] redux toolkit
+- [x] request
+- [x] basic type
+- [x] i18n
+- [x] antd
+- [x] husky
 
 # Prettier vscode 配置
 
