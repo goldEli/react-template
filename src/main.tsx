@@ -5,6 +5,8 @@ import "./index.css";
 import { BrowserRouter } from "react-router-dom";
 import "antd/dist/antd.css";
 
+import "@/locals";
+
 ReactDOM.createRoot(document.getElementById("root") as HTMLElement).render(
   <BrowserRouter>
     <App />
