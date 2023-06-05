@@ -1,5 +1,7 @@
 # React template
 
+react + ts + redux toolkit + antd + i18n
+
 - [x] eslint
 - [x] prettier
 - [x] redux toolkit
